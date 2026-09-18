@@ -1,0 +1,21 @@
+{
+  "network": "Arc Mainnet",
+  "chainId": 5042,
+  "liveApplication": "https://tripl.fun",
+  "rpcUrl": "https://rpc.mainnet.arc.io",
+  "explorerUrl": "https://explorer.arc.io",
+  "usdc": "0x3600000000000000000000000000000000000000",
+  "uniswapV4PoolManager": "0x8366a39CC670B4001A1121B8F6A443A643e40951",
+  "v5": {
+    "factory": "0xdaFa8f38B61A52ae2843ACdb470574F71b99d7c2",
+    "feeHook": "0x79F91eD8C4Ac36b780E7d48Fef5539883a7b20Cc",
+    "router": "0x9D04b16FFDDeb7E388503F4a7b9Ba33D4050B24D",
+    "deploymentBlock": 21373042
+  },
+  "v4PublicApplication": {
+    "factory": "0xEc2Cfd2749D7De9662615DbA63742888f6250287",
+    "platformToken": "0x92bc59b005ea6a57e804af8233b8a2b2704d19d8",
+    "deploymentBlock": 21191401
+  }
+}
+

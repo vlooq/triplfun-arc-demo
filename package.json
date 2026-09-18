@@ -1,0 +1,15 @@
+{
+  "name": "triplfun-arc-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Public Arc mainnet evidence and NFT-community rewards prototype for Triplfun.",
+  "scripts": {
+    "verify": "node scripts/verify-live.mjs"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  }
+}
+
